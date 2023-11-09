@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolioreactjs/static/css/main.23b5d7fa.css",
+    "main.js": "/portfolioreactjs/static/js/main.1fe2e736.js",
+    "static/js/787.f055211e.chunk.js": "/portfolioreactjs/static/js/787.f055211e.chunk.js",
+    "static/media/netflix img.png": "/portfolioreactjs/static/media/netflix img.2fabe68c2f8befb279b0.png",
+    "static/media/edumimg.png": "/portfolioreactjs/static/media/edumimg.3aa093ed2ea7508e6c61.png",
+    "static/media/shopingtemplate.png": "/portfolioreactjs/static/media/shopingtemplate.e5b9bb066d56410993d5.png",
+    "static/media/mico hospital.png": "/portfolioreactjs/static/media/mico hospital.7d9d59e4a7307fb2253f.png",
+    "static/media/watch discount post.png": "/portfolioreactjs/static/media/watch discount post.7ee7bec06a9975e620f7.png",
+    "static/media/brandcrub.png": "/portfolioreactjs/static/media/brandcrub.4b2db8ce4ecae2868bf4.png",
+    "static/media/burger-discount-JPEG.jpg": "/portfolioreactjs/static/media/burger-discount-JPEG.2bab239b6da1e090ebe7.jpg",
+    "static/media/jamboburger.webp": "/portfolioreactjs/static/media/jamboburger.6dba9680066698294908.webp",
+    "static/media/cta-bg.jpg": "/portfolioreactjs/static/media/cta-bg.314069eaf3191d75946a.jpg",
+    "static/media/fooddeliver-post.webp": "/portfolioreactjs/static/media/fooddeliver-post.975a0cfacf0563cc617b.webp",
+    "static/media/hero-img.png": "/portfolioreactjs/static/media/hero-img.593960b6732e1ce54f2b.png",
+    "static/media/skills.png": "/portfolioreactjs/static/media/skills.d55a75f7c955e52bc346.png",
+    "static/media/img-one.jpg": "/portfolioreactjs/static/media/img-one.08ccf3eee3e6543a0da9.jpg",
+    "index.html": "/portfolioreactjs/index.html",
+    "main.23b5d7fa.css.map": "/portfolioreactjs/static/css/main.23b5d7fa.css.map",
+    "main.1fe2e736.js.map": "/portfolioreactjs/static/js/main.1fe2e736.js.map",
+    "787.f055211e.chunk.js.map": "/portfolioreactjs/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b5d7fa.css",
+    "static/js/main.1fe2e736.js"
+  ]
+}
