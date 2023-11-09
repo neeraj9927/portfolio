@@ -5,7 +5,7 @@ const BuildingScroll = () => {
     <>
       <section className="building_scroll text-light">
         <div className="container">
-          <div className="row" data-aos="zoom-in" data-aos-easing="ease-in-sine" data-aos-duration="500">
+          <div className="row">
             <div className="col-md-8">
               <h3>
                 <strong>Call To Action</strong>

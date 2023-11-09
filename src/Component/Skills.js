@@ -2,18 +2,18 @@ import React from 'react'
 import Accordion from 'react-bootstrap/Accordion';
 import devlope from '../images/why-us.png'
 
-const Skills = () => {
+const Skills = (props) => {
   return (
     <section
-      className="section_three"
-      style={{ backgroundColor: "#f3f5fa", padding: "70px 0" }}
+      className={`section_three  bg-${props.skillsmode}`}
+      style={{ padding: "70px 0" }}
     >
       <div className="container">
-        <div className="row">
-          <div className="col-lg-6" data-aos="zoom-in-right" data-aos-easing="linear" data-aos-duration="1500">
+        <div className={`row text-${props.mode === 'herosectionbg'?'dark':'light'}`}>
+          <div className="col-lg-6">
             <h2>
               Eum ipsam laborum deleniti{" "}
-              <strong style={{ color: "#37517e" }}>velit pariatur architecto aut nihil</strong>
+              <strong className={`text-${props.mode === 'herosectionbg'? 'blue':'light'}`}>velit pariatur architecto aut nihil</strong>
             </h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -59,7 +59,7 @@ const Skills = () => {
               </Accordion.Item>
             </Accordion>
           </div>
-          <div className="col-lg-6" data-aos="zoom-in-left" data-aos-easing="linear" data-aos-duration="1500">
+          <div className="col-lg-6">
             <img className="w-100" src={devlope}/>
           </div>
         </div>
